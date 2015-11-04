@@ -1,0 +1,69 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M  (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     1972 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\GitHub\2D_Roguelik_game_exe\1.0.3\2D_Roguelike_1.0.3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\GitHub\2D_Roguelik_game_exe\1.0.3\2D_Roguelike_1.0.3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\GitHub\2D_Roguelik_game_exe\1.0.3\2D_Roguelike_1.0.3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\GitHub\2D_Roguelik_game_exe\1.0.3\2D_Roguelike_1.0.3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\GitHub\2D_Roguelik_game_exe\1.0.3\2D_Roguelike_1.0.3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\GitHub\2D_Roguelik_game_exe\1.0.3\2D_Roguelike_1.0.3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\GitHub\2D_Roguelik_game_exe\1.0.3\2D_Roguelike_1.0.3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\GitHub\2D_Roguelik_game_exe\1.0.3\2D_Roguelike_1.0.3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\GitHub\2D_Roguelik_game_exe\1.0.3\2D_Roguelike_1.0.3_Data\Managed\Glow11.dll (this message is harmless)
+Loading D:\GitHub\2D_Roguelik_game_exe\1.0.3\2D_Roguelike_1.0.3_Data\Managed\Glow11.dll into Unity Child Domain
+Platform assembly: D:\GitHub\2D_Roguelik_game_exe\1.0.3\2D_Roguelike_1.0.3_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.287 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\GitHub\2D_Roguelik_game_exe\1.0.3\2D_Roguelike_1.0.3_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/Glow 11/Blur GL' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Glow 11/Blur GL' - Setting to default shader.
+IsolatedStorageException: Could not find a part of the path "D:\GitHub\2D_Roguelik_game_exe\1.0.3\Assets\Completed\Resources\rune.txt".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.Open (FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.Open (FileMode mode, FileAccess access) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.OpenText () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileInfo:OpenText ()
+  at RuneManagerCs.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1384 -> priority: 1 
+WARNING: Shader Unsupported: 'Hidden/Glow 11/GlowObjects' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Glow 11/GlowObjects' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Glow 11/GlowObjects' - Pass 'OPAQUEGLOW' has no vertex shader
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 25.485817 ms
+Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 859.
+Total: 0.727660 ms (FindLiveObjects: 0.071845 ms CreateObjectMapping: 0.053088 ms MarkObjects: 0.583261 ms  DeleteObjects: 0.017696 ms)
+
+IsolatedStorageException: Could not find a part of the path "D:\GitHub\2D_Roguelik_game_exe\1.0.3\Assets\Completed\Resources\test.txt".
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean anonymous, FileOptions options) [0x00000] in <filename unknown>:0 
+  at System.IO.FileStream..ctor (System.String path, FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.Open (FileMode mode, FileAccess access, FileShare share) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.Open (FileMode mode, FileAccess access) [0x00000] in <filename unknown>:0 
+  at System.IO.FileInfo.OpenText () [0x00000] in <filename unknown>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileInfo:OpenText ()
+  at Completed.GameManager.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
