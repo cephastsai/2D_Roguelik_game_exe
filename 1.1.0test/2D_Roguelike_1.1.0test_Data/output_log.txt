@@ -1,0 +1,85 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M  (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     1972 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\User\Desktop\2D_Roguelike_1.1.0test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Desktop\2D_Roguelike_1.1.0test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\2D_Roguelike_1.1.0test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\User\Desktop\2D_Roguelike_1.1.0test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\2D_Roguelike_1.1.0test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\User\Desktop\2D_Roguelike_1.1.0test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\2D_Roguelike_1.1.0test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\User\Desktop\2D_Roguelike_1.1.0test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\2D_Roguelike_1.1.0test_Data\Managed\Glow11.dll (this message is harmless)
+Loading C:\Users\User\Desktop\2D_Roguelike_1.1.0test_Data\Managed\Glow11.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\2D_Roguelike_1.1.0test_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.056 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\User\Desktop\2D_Roguelike_1.1.0test_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/Glow 11/Blur GL' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Glow 11/Blur GL' - Setting to default shader.
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1a18 -> priority: 1 
+WARNING: Shader Unsupported: 'Hidden/Glow 11/GlowObjects' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Glow 11/GlowObjects' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Glow 11/GlowObjects' - Pass 'OPAQUEGLOW' has no vertex shader
+RandomNum:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.572304 ms
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 867.
+Total: 0.635995 ms (FindLiveObjects: 0.067598 ms CreateObjectMapping: 0.026897 ms MarkObjects: 0.465759 ms  DeleteObjects: 0.074323 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.197313 ms
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 864.
+Total: 0.405592 ms (FindLiveObjects: 0.041762 ms CreateObjectMapping: 0.021943 ms MarkObjects: 0.277827 ms  DeleteObjects: 0.063351 ms)
+
